@@ -1,1 +1,3 @@
-# Virtual piano \n from JB academy
+# Virtual piano 
+
+from JB academy
